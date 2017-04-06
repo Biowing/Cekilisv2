@@ -1,0 +1,9 @@
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\bin\Debug\Cekilis.exe.config
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\bin\Debug\Cekilis.exe
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\bin\Debug\Cekilis.pdb
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\obj\Debug\Cekilis.csprojResolveAssemblyReference.cache
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\obj\Debug\Cekilis.Properties.Resources.resources
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\obj\Debug\Cekilis.csproj.GenerateResource.Cache
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\obj\Debug\Cekilis.exe
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\obj\Debug\Cekilis.pdb
+C:\Users\Biowing\Desktop\önemli programlar\Programlarım\Cekilis\Cekilis\Cekilis\obj\Debug\Cekilis.CekilisProgramı.resources
